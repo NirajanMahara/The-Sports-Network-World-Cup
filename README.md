@@ -6,7 +6,16 @@ A comprehensive relational database for World Cup Qatar 2022 statistics, designe
 
 The database consists of interconnected tables capturing teams, players, performance metrics, and disciplinary records:
 
-![ER Diagram](er_diagram.png)
+![ER Diagram The Sports Network World Cup](https://github.com/NirajanMahara/The-Sports-Network-World-Cup/blob/main/World%20Cup%202022%20ER%20Diagram-2025-03-18-154756.png?raw=true)
+![Mermaid ER Diagram The Sports Network World Cup Screenshot](https://github.com/NirajanMahara/The-Sports-Network-World-Cup/blob/main/World%20Cup%202022%20ER%20Diagram%20Mermaid%20Screenshot%202025-03-18%20at%2011.49.16%20AM.png?raw=true)
+
+
+## Supabase
+Supabase is an open source Firebase alternative.
+Start your project with a Postgres database,
+
+![The Sports Network Supabase Database Screenshot](https://github.com/NirajanMahara/The-Sports-Network-World-Cup/blob/main/The%20Sports%20Network%20Database%20Screenshot%202025-03-18%20at%2011.32.05%20AM.png?raw=true)
+
 
 ## Tables
 
