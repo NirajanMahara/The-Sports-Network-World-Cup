@@ -5,6 +5,10 @@ A comprehensive relational database for World Cup Qatar 2022 statistics, designe
 ## Demo: https://the-sports-network.netlify.app
 Site has been successfully deployed!
 
+![tsn dashboard](https://github.com/NirajanMahara/The-Sports-Network-World-Cup/blob/main/screenshots/Screenshot%202025-03-18%20at%2010.41.36%20PM.png)
+https://the-sports-network.netlify.app/stats
+![tsn statistics](https://github.com/NirajanMahara/The-Sports-Network-World-Cup/blob/main/screenshots/Screenshot%202025-03-18%20at%2010.41.55%20PM.png?raw=true)
+
 ## Schema Overview
 
 The database consists of interconnected tables capturing teams, players, performance metrics, and disciplinary records:
