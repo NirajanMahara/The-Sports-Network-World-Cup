@@ -2,6 +2,9 @@
 
 A comprehensive relational database for World Cup Qatar 2022 statistics, designed for The Sports Network to analyze and present performance data.
 
+## Demo: https://the-sports-network.netlify.app
+Site has been successfully deployed!
+
 ## Schema Overview
 
 The database consists of interconnected tables capturing teams, players, performance metrics, and disciplinary records:
